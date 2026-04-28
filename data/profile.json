@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "data": {
+    "id": "USR-001",
+    "username": "Admin_System",
+    "balance": 1500000,
+    "plan": "free",
+    "status": "active"
+  }
+}
