@@ -1,0 +1,18 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "id": "USR-001",
+    "balance": 1500000,
+    "plan": "vip",
+    "status": "active"
+  },
+  {
+    "username": "user1",
+    "password": "123",
+    "id": "USR-002",
+    "balance": 50000,
+    "plan": "free",
+    "status": "active"
+  }
+]
