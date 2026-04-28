@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "TXN-902183",
+      "type": "deposit",
+      "amount": 1000000,
+      "status": "completed",
+      "date": "2024-04-25 14:30",
+      "description": "Nạp Credit qua MB Bank"
+    },
+    {
+      "id": "TXN-902184",
+      "type": "purchase",
+      "amount": 500000,
+      "status": "completed",
+      "date": "2024-04-25 10:15",
+      "description": "Gia hạn Gói Baccarat Pro (1 Tháng)"
+    },
+    {
+      "id": "TXN-902185",
+      "type": "purchase",
+      "amount": 200000,
+      "status": "completed",
+      "date": "2024-04-24 18:45",
+      "description": "Nâng cấp lên gói VIP Premium"
+    }
+  ]
+}
